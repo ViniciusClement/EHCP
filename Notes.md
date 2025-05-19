@@ -33,6 +33,8 @@
 * https://www.youtube.com/watch?v=uLI24keCKFs
 * https://www.youtube.com/watch?v=vj4RW39KICA
 * https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/
+* https://publicsuffix.org/
+
 
 ## Recon
 * https://github.com/eth0izzle/shhgit
