@@ -28,7 +28,6 @@
 * https://github.com/nccgroup/PMapper
 * https://github.com/RhinoSecurityLabs/IAMActionHunter
 * https://github.com/SummitRoute/aws_exposable_resources
-* https://github.com/SummitRoute/aws_exposable_resources
 * https://publicsuffix.org/list/
 * https://www.youtube.com/watch?v=uLI24keCKFs
 * https://www.youtube.com/watch?v=vj4RW39KICA
