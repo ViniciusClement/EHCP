@@ -1,6 +1,6 @@
-EHCP 2025
+## EHCP 2025
 
-EHCP 2025
+## Links
 
 https://threats.wiz.io/all-incidents
 https://www.awsiamactions.io/statistics
@@ -37,3 +37,6 @@ https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-suppl
 ## Recon
 https://github.com/eth0izzle/shhgit
 https://securitytrails.com/app/account
+https://github.com/Findomain/Findomain
+https://github.com/owasp-amass/amass
+https://awseye.com/
